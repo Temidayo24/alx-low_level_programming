@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 0x04. C - More functions, more nested loops
@@ -9,3 +10,6 @@ Write a function that prints the numbers, from 0 to 9, followed by a new line.
 Write a function that prints the numbers, from 0 to 9, followed by a new line.
 Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 Write a function that draws a diagonal line on the terminal.
+=======
+This is a project on C-More functions, more nested loops.
+>>>>>>> 6d4f82e6a3f1c09523d5e12c0710232f74bb3361
